@@ -6,12 +6,17 @@ In this project, the mathematics and statistics involved in a real-life business
 - `BQ_code.rmd` – R markdown
 
 # Dependencies
-quantmod
-ggplot2
-dplyr
-reshape2
-readrba
-knitr
-lubridate  
-Rsolnp
-quadprog
+- quantmod
+- ggplot2
+- dplyr
+- reshape2
+- readrba
+- knitr
+- lubridate  
+- Rsolnp
+- quadprog
+
+# Data sources
+https://finance.yahoo.com/
+Reserve Bank of Australia
+
