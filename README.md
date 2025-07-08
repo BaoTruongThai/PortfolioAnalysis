@@ -4,3 +4,14 @@ In this project, the mathematics and statistics involved in a real-life business
 # Files
 - `presentation.pptx` – Summary of the project
 - `BQ_code.rmd` – R markdown
+
+# Dependencies
+quantmod
+ggplot2
+dplyr
+reshape2
+readrba
+knitr
+lubridate  
+Rsolnp
+quadprog
