@@ -18,5 +18,5 @@ In this project, the mathematics and statistics involved in a real-life business
 
 # Data sources
 https://finance.yahoo.com/
-Reserve Bank of Australia
+https://www.rba.gov.au/
 
