@@ -4,6 +4,7 @@ In this project, the mathematics and statistics involved in a real-life business
 # Files
 - `presentation.pptx` – Summary of the project
 - `BQ_code.rmd` – R markdown
+- `codeR_final.R` - R coding file
 
 # Dependencies
 - quantmod
